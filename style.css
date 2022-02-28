@@ -139,5 +139,28 @@ tr{
 }
 
 
+/* FOOTER */
+
+footer{
+  margin-top: 15px;
+   width: 750px;
+}
+
+footer > span{
+  font-size: 14px;
+  color: grey;
+}
+
+.container {
+  position: relative;
+}
+
+
+.text{
+  color: white;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
 
 
