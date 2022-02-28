@@ -57,6 +57,7 @@ a{
 
 
 section{
+  margin-top: 15px;
   width: 750px;
 }
 .image{
@@ -95,7 +96,47 @@ p{
   background-color: rgb(254, 254, 31);
 }
 
+/* UL */
 
+ul{
+  margin-left: -25px;
+  width: 750px;
+  font-size: 15px;
+  margin-top: 20px;
+}
+/* END UL */
+
+table{
+  text-align: left;
+  width: 750px;
+  background-color: rgb(34, 169, 228);
+  border-collapse: collapse;
+}
+
+
+
+th{
+width: 30px;
+font-size: 12px;
+color: white;
+line-height: 10px;
+}
+
+td{
+  font-size: 12px;
+  /* padding: 10px; */
+  background-color: rgb(176, 228, 241);
+}
+
+tr{
+  line-height: 15px;
+}
+
+/* whiterow */
+
+.whiterow {
+  background-color: white;
+}
 
 
 
