@@ -1,4 +1,4 @@
-*{
+* {
   margin: auto;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -50,3 +50,53 @@ a{
   color: grey;
 
 }
+
+/* MAIN */
+
+/* IMG SECTION */
+
+
+section{
+  width: 750px;
+}
+.image{
+  display: inline-block;
+  background-image: url(img/tim-1.jpg);
+  width: 370px;
+  height: 300px ;
+
+}
+
+.image2{
+  display: inline-block;
+  background-image: url(img/tim-2.jpg);
+  background-size: cover;
+  width: 370px;
+  height: 300px ;
+  
+}
+
+
+/* FOTO DESCRIPTION */
+span{
+  font-size: 10px;
+}
+
+
+/* PARAGRAPH SECTION */
+
+p{
+  margin-top: 15px;
+  font-size: 15px;
+}
+
+.highlight{
+  font-size: 15px;
+  background-color: rgb(254, 254, 31);
+}
+
+
+
+
+
+
